@@ -1,3 +1,3 @@
-## Tutorial Scripts
-* [Managing Documents](scripts/1-Managing-Docs)
-* [Mapping & Analysis](scripts/2-Mapping-And-Analysis)
+# ElasticSearch
+## [Theory](learning-resources/Notes/0-Index.md)
+## [Scripts](learning-resources/scripts)
